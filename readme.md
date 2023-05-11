@@ -1,0 +1,1 @@
+An Initial project from the Odin Project mainly demonstrating basic HTML
