@@ -1,0 +1,11 @@
+.title {
+    color: white;
+    background-color: black;
+    font-weight: bold;
+    text-align: center;
+}
+
+.list-container {
+    background-color: gray;
+    color: white;
+}
